@@ -1,0 +1,66 @@
+
+ 5. Data Management
+Database per Service
+
+Managing transactions across services:
+
+Sagas Pattern (Orchestration vs Choreography)
+
+Event-driven architecture
+
+Data Replication & Synchronization
+
+ 6. Scaling and Resiliency
+Load Balancing
+
+Circuit Breaker (like using Resilience4j or Polly)
+
+Retry policies
+
+Health checks and monitoring
+
+Distributed Tracing (Jaeger, Zipkin)
+
+7. Deployment and Hosting
+Docker basics (Containerizing Microservices)
+
+Kubernetes basics (Managing Microservices at scale)
+
+CI/CD pipelines (automating build and deploy)
+
+Cloud Providers (AWS, Azure, GCP basics)
+
+ 8. Tools and Technologies
+API Gateway (Ocelot, YARP for .NET)
+
+Service Mesh (Istio, Linkerd)
+
+Message Brokers (RabbitMQ, Kafka)
+
+Observability tools (Prometheus, Grafana)
+
+ 9. Best Practices
+Centralized logging (ELK Stack: Elasticsearch, Logstash, Kibana)
+
+Configuration Management (Centralized config like Consul / Config Server)
+
+Versioning APIs
+
+Graceful degradation and fallback strategies
+
+ 10. Real-world Patterns
+Strangler Fig Pattern (migrating from Monolith to Microservices)
+
+Backend for Frontend (BFF Pattern)
+
+Sidecar Pattern
+
+Anti-Corruption Layer (ACL)
+
+Bonus (if you want to go pro):
+Serverless Microservices (AWS Lambda, Azure Functions)
+
+Domain-Driven Design (deep)
+
+Event Sourcing and CQRS patterns
+

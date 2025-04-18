@@ -1,0 +1,43 @@
+Core Knowledge
+Do you understand MongoDB architecture (collections, documents, BSON)?
+
+Are you comfortable with CRUD operations (Create, Read, Update, Delete)?
+
+Can you write queries using filters, projections, and operators ($gt, $in, $and, etc.)?
+
+✅ Intermediate Skills
+Can you design a schema based on app requirements (schema design in a NoSQL world)?
+
+Do you use indexes effectively for performance?
+
+Are you familiar with aggregation pipelines ($match, $group, $project, etc.)?
+
+✅ Advanced Topics
+Do you know how to handle relationships (embedded vs referenced documents)?
+
+Are you comfortable with MongoDB transactions (in multi-document operations)?
+
+Can you handle data modeling for large-scale applications?
+
+✅ Practical Experience
+Have you used MongoDB in real projects?
+
+Have you handled data migrations or optimizations?
+
+Are you comfortable with MongoDB Atlas, backup/restore, or replica sets?
+
+✅ Problem Solving
+Can you debug queries that are slow or incorrect?
+
+Do you know how to analyze query performance using explain()?
+
+Can you solve practical problems with MongoDB confidently?
+
+✅ Confidence Check
+Ask yourself:
+
+If someone gave me a new project that uses MongoDB, could I handle it comfortably?
+
+If a bug appears in a query or schema design, would I know how to find and fix it?
+
+Could I teach someone else how to use MongoDB?
